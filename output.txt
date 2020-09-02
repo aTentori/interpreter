@@ -1,0 +1,15 @@
+{
+function:FUNCTION
+a:ID
+}
+{
+x:ID
+=:ASSIGNMENT_OPERATOR
+1:LITERAL_INTEGER
+}
+{
+x:ID
+}
+{
+end:END
+}
